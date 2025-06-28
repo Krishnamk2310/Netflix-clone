@@ -1,16 +1,47 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React.js**-based Netflix clone with full user authentication (sign in/sign up), video/image trailer streaming via **TMDB API**, and Firebase integration for authentication and user session handling.
 
-Currently, two official plugins are available:
+[🔗 Live Demo](https://netflix-clonemkm.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Netflix-clone
->>>>>>> 933da7ca8cf27e0f32be33de2392a1535bc013d3
+- 🔥 Fully responsive UI inspired by Netflix
+- 🔐 Firebase Authentication (Sign In / Sign Up)
+- 🎞️ Fetches trailers, posters, and video content using [TMDB API](https://www.themoviedb.org/documentation/api)
+- 🎥 YouTube trailer embedding via `iframe`
+- 📂 Browse categories like Trending, Top Rated, etc.
+- 🌙 Dark-themed minimalist layout
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology      | Description                      |
+|-----------------|----------------------------------|
+| React.js        | UI Library                       |
+| Vite            | Build Tool                       |
+| Tailwind CSS    | Styling                          |
+| Firebase        | Authentication and Hosting       |
+| TMDB API        | Movie database API               |
+| React Router    | Client-side routing              |
+| React Toastify  | Toast notification system        |
+
+---
+
+## 📸 Screenshots
+
+| Home Page                         | Auth Page                          | Trailer Player                     |
+|----------------------------------|------------------------------------|------------------------------------|
+| ![Home](https://i.imgur.com/XsHFiEz.png) | ![Auth](https://i.imgur.com/KCB0Uq0.png) | ![Player](https://i.imgur.com/3XY1OWW.png) |
+
+---
+
+## 🔧 Getting Started Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Krishnamk2310/Netflix-clone.git
+   cd Netflix-clone
