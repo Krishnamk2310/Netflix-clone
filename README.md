@@ -31,13 +31,7 @@ A **React.js**-based Netflix clone with full user authentication (sign in/sign u
 
 ---
 
-## 📸 Screenshots
 
-| Home Page                         | Auth Page                          | Trailer Player                     |
-|----------------------------------|------------------------------------|------------------------------------|
-| ![Home](https://i.imgur.com/XsHFiEz.png) | ![Auth](https://i.imgur.com/KCB0Uq0.png) | ![Player](https://i.imgur.com/3XY1OWW.png) |
-
----
 
 ## 🔧 Getting Started Locally
 
